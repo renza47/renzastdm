@@ -17,3 +17,5 @@ https://github.com/openmultiplayer/open.mp/releases
 - Download the latest open.mp server from https://github.com/openmultiplayer/open.mp/releases and extract it on the server folder.
 - Create a folder named 'plugins', then download and install all the dependencies.
 - Setup the server database and change the information in 'build.pwn', then compile it.
+
+If you have any question feel free to DM my discord (renza#6558)
